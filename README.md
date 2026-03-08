@@ -155,8 +155,8 @@ A complete **28-section reference guide** is embedded directly in the dashboard 
 ### Installation
 
 ```bash
-git clone https://github.com/dylanpersonguy/polymarket-bot-automated-ai-trading.git
-cd polymarket-bot-automated-ai-trading
+git clone https://github.com/dylanpersonguy/Fully-Autonomous-Polymarket-AI-Trading-Bot.git
+cd Fully-Autonomous-Polymarket-AI-Trading-Bot
 python3 -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
 ```
